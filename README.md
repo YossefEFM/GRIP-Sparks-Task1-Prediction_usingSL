@@ -1,6 +1,6 @@
 # GRIP-Sparks/Task1-Prediction_usingSL
-#Yosse Essam Fouad 
+#Name :Yosse Essam Fouad 
 
-#GRIP_Sparks
+#Organization : Sparks    
 
 #Task1: Prediction using Supervised learning
